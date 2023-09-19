@@ -1,0 +1,96 @@
+header {
+    display: flex;
+    padding: 10px;
+    color: white;
+    justify-content: space-between;
+
+}
+
+img {
+    padding: 10px;
+    margin-left: 20px;
+
+}
+
+main {
+    display: flex;
+    color: white;
+    padding: 120px;
+}
+
+body {
+    background-color: navy;
+}
+
+nav {
+    display: flex;
+    color: white;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+p {
+    padding: 5px;
+}
+
+footer {
+    display: flex;
+    color: navy;
+    background-color: white;
+    justify-content: center;
+    padding: 10px;
+    justify-content: space-evenly;
+    margin: 0px;
+
+}
+
+footer>nav {
+    display: flex;
+    color: navy;
+    text-decoration: 3px underline navy;
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+button {
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    height: 40px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+h5 {
+    color: yellow;
+    padding: 5px;
+}
+
+footer>h1 {
+
+    padding: 10px;
+    color: black;
+    justify-content: center;
+
+}
+
+.footer-two {
+    background-color: lightgrey;
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+footer>p {
+    padding: 10px;
+    justify-content: center;
+
+}
+
+.footer-one {
+    text-decoration: 2px underline navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
